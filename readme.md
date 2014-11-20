@@ -11,4 +11,4 @@
 | Links 2 | Zentriert 2 | Rechts 2 |
 	
 *Dieser Text ist kursiv.*
-*Dieser Text ist fett.*
+**Dieser Text ist fett.**
